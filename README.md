@@ -3,6 +3,7 @@ I am a web enthusiast, Full Stack Developer & Web Designer, always eager to lear
 
 ## 🛫 About me
 👩‍💻 I'm currently working as a Web designer & Full Stack Developper
+
 🧠 I'm currently learning UX/UI design
 
 # 💻 Tech Stack:
